@@ -1,4 +1,4 @@
-package log
+package dlog
 
 import (
 	"log/slog"
